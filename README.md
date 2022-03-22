@@ -1,5 +1,5 @@
 # Bug Bounty 
-These are my bug bounty notes that I have gathered from various sources, you can contribute to this repository too!
+These are my bug bounty notes that I have gathered from various sources.
 
 ![](https://img.shields.io/github/issues/daffainfo/AllAboutBugBounty)
 ![](https://img.shields.io/github/forks/daffainfo/AllAboutBugBounty)
