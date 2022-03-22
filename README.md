@@ -2,6 +2,23 @@
 These are my bug bounty notes that I have gathered from various sources, you can contribute to this repository too!
 
 
+BBBBBBBBBBBBBBBBB   RRRRRRRRRRRRRRRRR        OOOOOOOOO          OOOOOOOOO     KKKKKKKKK    KKKKKKK   SSSSSSSSSSSSSSS 
+B::::::::::::::::B  R::::::::::::::::R     OO:::::::::OO      OO:::::::::OO   K:::::::K    K:::::K SS:::::::::::::::S
+B::::::BBBBBB:::::B R::::::RRRRRR:::::R  OO:::::::::::::OO  OO:::::::::::::OO K:::::::K    K:::::KS:::::SSSSSS::::::S
+BB:::::B     B:::::BRR:::::R     R:::::RO:::::::OOO:::::::OO:::::::OOO:::::::OK:::::::K   K::::::KS:::::S     SSSSSSS
+  B::::B     B:::::B  R::::R     R:::::RO::::::O   O::::::OO::::::O   O::::::OKK::::::K  K:::::KKKS:::::S            
+  B::::B     B:::::B  R::::R     R:::::RO:::::O     O:::::OO:::::O     O:::::O  K:::::K K:::::K   S:::::S            
+  B::::BBBBBB:::::B   R::::RRRRRR:::::R O:::::O     O:::::OO:::::O     O:::::O  K::::::K:::::K     S::::SSSS         
+  B:::::::::::::BB    R:::::::::::::RR  O:::::O     O:::::OO:::::O     O:::::O  K:::::::::::K       SS::::::SSSSS    
+  B::::BBBBBB:::::B   R::::RRRRRR:::::R O:::::O     O:::::OO:::::O     O:::::O  K:::::::::::K         SSS::::::::SS  
+  B::::B     B:::::B  R::::R     R:::::RO:::::O     O:::::OO:::::O     O:::::O  K::::::K:::::K           SSSSSS::::S 
+  B::::B     B:::::B  R::::R     R:::::RO:::::O     O:::::OO:::::O     O:::::O  K:::::K K:::::K               S:::::S
+  B::::B     B:::::B  R::::R     R:::::RO::::::O   O::::::OO::::::O   O::::::OKK::::::K  K:::::KKK            S:::::S
+BB:::::BBBBBB::::::BRR:::::R     R:::::RO:::::::OOO:::::::OO:::::::OOO:::::::OK:::::::K   K::::::KSSSSSSS     S:::::S
+B:::::::::::::::::B R::::::R     R:::::R OO:::::::::::::OO  OO:::::::::::::OO K:::::::K    K:::::KS::::::SSSSSS:::::S
+B::::::::::::::::B  R::::::R     R:::::R   OO:::::::::OO      OO:::::::::OO   K:::::::K    K:::::KS:::::::::::::::SS 
+
+
 ## List
 - [Business Logic Errors](https://github.com/daffainfo/AllAboutBugBounty/blob/master/Business%20Logic%20Errors.md)
 - [Cross Site Request Forgery (CSRF)](https://github.com/daffainfo/AllAboutBugBounty/blob/master/Cross%20Site%20Request%20Forgery.md)
