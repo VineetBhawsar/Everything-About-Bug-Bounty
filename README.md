@@ -1,23 +1,10 @@
-# Everything-About-Bug-Bounty
+# Bug Bounty 
 These are my bug bounty notes that I have gathered from various sources, you can contribute to this repository too!
 
-
-BBBBBBBBBBBBBBBBB   RRRRRRRRRRRRRRRRR        OOOOOOOOO          OOOOOOOOO     KKKKKKKKK    KKKKKKK   SSSSSSSSSSSSSSS 
-B::::::::::::::::B  R::::::::::::::::R     OO:::::::::OO      OO:::::::::OO   K:::::::K    K:::::K SS:::::::::::::::S
-B::::::BBBBBB:::::B R::::::RRRRRR:::::R  OO:::::::::::::OO  OO:::::::::::::OO K:::::::K    K:::::KS:::::SSSSSS::::::S
-BB:::::B     B:::::BRR:::::R     R:::::RO:::::::OOO:::::::OO:::::::OOO:::::::OK:::::::K   K::::::KS:::::S     SSSSSSS
-  B::::B     B:::::B  R::::R     R:::::RO::::::O   O::::::OO::::::O   O::::::OKK::::::K  K:::::KKKS:::::S            
-  B::::B     B:::::B  R::::R     R:::::RO:::::O     O:::::OO:::::O     O:::::O  K:::::K K:::::K   S:::::S            
-  B::::BBBBBB:::::B   R::::RRRRRR:::::R O:::::O     O:::::OO:::::O     O:::::O  K::::::K:::::K     S::::SSSS         
-  B:::::::::::::BB    R:::::::::::::RR  O:::::O     O:::::OO:::::O     O:::::O  K:::::::::::K       SS::::::SSSSS    
-  B::::BBBBBB:::::B   R::::RRRRRR:::::R O:::::O     O:::::OO:::::O     O:::::O  K:::::::::::K         SSS::::::::SS  
-  B::::B     B:::::B  R::::R     R:::::RO:::::O     O:::::OO:::::O     O:::::O  K::::::K:::::K           SSSSSS::::S 
-  B::::B     B:::::B  R::::R     R:::::RO:::::O     O:::::OO:::::O     O:::::O  K:::::K K:::::K               S:::::S
-  B::::B     B:::::B  R::::R     R:::::RO::::::O   O::::::OO::::::O   O::::::OKK::::::K  K:::::KKK            S:::::S
-BB:::::BBBBBB::::::BRR:::::R     R:::::RO:::::::OOO:::::::OO:::::::OOO:::::::OK:::::::K   K::::::KSSSSSSS     S:::::S
-B:::::::::::::::::B R::::::R     R:::::R OO:::::::::::::OO  OO:::::::::::::OO K:::::::K    K:::::KS::::::SSSSSS:::::S
-B::::::::::::::::B  R::::::R     R:::::R   OO:::::::::OO      OO:::::::::OO   K:::::::K    K:::::KS:::::::::::::::SS 
-
+![](https://img.shields.io/github/issues/daffainfo/AllAboutBugBounty)
+![](https://img.shields.io/github/forks/daffainfo/AllAboutBugBounty)
+![](https://img.shields.io/github/stars/daffainfo/AllAboutBugBounty)
+![](https://img.shields.io/github/last-commit/daffainfo/AllAboutBugBounty)
 
 ## List
 - [Business Logic Errors](https://github.com/daffainfo/AllAboutBugBounty/blob/master/Business%20Logic%20Errors.md)
@@ -27,7 +14,9 @@ B::::::::::::::::B  R::::::R     R:::::R   OO:::::::::OO      OO:::::::::OO   K:
 - [Exposed Source Code](https://github.com/daffainfo/AllAboutBugBounty/blob/master/Exposed%20Source%20Code.md)
 - [Host Header Injection](https://github.com/daffainfo/AllAboutBugBounty/blob/master/Host%20Header%20Injection.md)
 - [Insecure Direct Object References (IDOR)](https://github.com/daffainfo/AllAboutBugBounty/blob/master/Insecure%20Direct%20Object%20References.md)
+- Local File Inclusion (SOON)
 - [NoSQL Injection](https://github.com/daffainfo/AllAboutBugBounty/blob/master/NoSQL%20Injection.md)
+- SQL Injection (SOON)
 - [OAuth Misconfiguration](https://github.com/daffainfo/AllAboutBugBounty/blob/master/OAuth%20Misconfiguration.md)
 - [Open Redirect](https://github.com/daffainfo/AllAboutBugBounty/blob/master/Open%20Redirect.md)
 - [Web Cache Poisoning](https://github.com/daffainfo/AllAboutBugBounty/blob/master/Web%20Cache%20Poisoning.md)
